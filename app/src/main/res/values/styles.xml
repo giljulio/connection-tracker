@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/_AppTheme"/>
+
+    <style name="_AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+        <item name="colorPrimary">#fff</item>
+        <item name="colorPrimaryDark">#ff273366</item>
+        <item name="colorAccent">#DEDFDF</item>
+        <item name="colorControlNormal">#DEDFDF</item>
+
+    </style>
+
+
+    <style name="pre5ButtonTheme">
+        <item name="android:background">@android:color/white</item>
+    </style>
+</resources>

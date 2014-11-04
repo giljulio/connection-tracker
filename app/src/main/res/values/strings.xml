@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RS Connection Tracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notification_message">Active Connection Tracking</string>
+    <string name="notification_title">RS Connection Tracker</string>
+    <string name="ticker_text">Connection Tracking Activated</string>
+
+</resources>
